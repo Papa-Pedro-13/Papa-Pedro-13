@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | SPbPU Information Security Graduate<br>With over two years of hands-on experience in frontend development, I am passionate about creating efficient, scalable, and clean code. My background in Information Security from Peter the Great St. Petersburg Polytechnic University (SPbPU) provides a solid foundation for building secure and reliable applications.
+Frontend Developer | SPbPU Information Security Graduate<br>With over five years of hands-on experience in frontend development, I am passionate about creating efficient, scalable, and clean code. My background in Information Security from Peter the Great St. Petersburg Polytechnic University (SPbPU) provides a solid foundation for building secure and reliable applications.
 
 
 ## 🌐 Socials:
